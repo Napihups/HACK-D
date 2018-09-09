@@ -30,3 +30,11 @@ for(var x in cars) {
     difefeefe
 });
 
+console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
+
