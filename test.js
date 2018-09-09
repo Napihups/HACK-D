@@ -31,6 +31,9 @@ for(var x in cars) {
 });
 
 console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
 console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);
 console.log("Closure Callback: " + msg);
 console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);
