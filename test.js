@@ -34,3 +34,10 @@ console.log("Closure Callback: " + msg);
 console.log("Closure Callback: " + msg);
 console.log("Closure Callback: " + msg);
 console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
+console.log("Closure Callback: " + msg);
+
